@@ -1,0 +1,6 @@
+{
+  "name": "Prooft",
+  "description": "GEO (Generative Engine Optimization) platform that converts raw reviews, UGC, and brand mentions into AI-readable trust signals so LLM engines cite your brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
